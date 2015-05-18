@@ -38,7 +38,7 @@ class SB_Events
 end
 
   class Event_base
-      attr_accessor :date, :location-name, :notes
+      attr_accessor :date, :location, :notes
       attr_reader :days, :nights, :frost_points, :miles, :hours
       def initialize(row)
       @date = row[:date]
