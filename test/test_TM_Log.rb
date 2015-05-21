@@ -4,7 +4,7 @@ require 'TM_Log'
 class Test_TM_Log < Minitest::Test
 
   puts "\n*** TM_Log Test ***\n\n"
-  
+
   def setup
     @dir = File.expand_path('../../files',__FILE__)
     @log = TM_Log.new(@dir)

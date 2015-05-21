@@ -1,3 +1,8 @@
+class Ask
+  def initialize
+    
+  end
+end
   def ask (types, logtypes)
     #build request string
     req_string =  ""

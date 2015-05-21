@@ -1,5 +1,8 @@
 class SB_Events
-  require 'logger'
+  #require 'logger'
+  #TODO create a class for conversion matrix
+  #TODO move the ask method to that class
+  #TODO pass event matrix to SB_Events class
 
   attr_reader :likes
 

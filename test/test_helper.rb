@@ -1,4 +1,5 @@
 require 'minitest/autorun'
+require "minitest/spec"
 require 'minitest/mock'
 require 'minitest/reporters'
 require 'active_support'
