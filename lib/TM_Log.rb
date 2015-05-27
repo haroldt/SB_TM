@@ -9,6 +9,7 @@ class TM_Log
 
   def initialize(path)
     #extract html file names
+    path = path.to_s
     path = path + "/" if path !~ /[\/]$/
     @files = Dir.glob(path + "/*.html")
 
@@ -22,7 +23,7 @@ class TM_Log
     @splits = split.zip(@activities.map{|x| x.index(@types[0])})
     parse
   end
-  
+
   private
 
   def read_files
@@ -50,5 +51,5 @@ class TM_Log
     end
     @logs
   end
-  
+
 end
