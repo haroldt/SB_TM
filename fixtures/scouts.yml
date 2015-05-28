@@ -1,0 +1,1063 @@
+---
+- :last_name: Pena
+  :first_name: Jayden
+  :events:
+  - :date: 02/15/13
+    :type: Camping
+    :amount: '1'
+    :location: Firestone Reservation
+    :notes: Boy Scout/Cub Scout outing
+  - :date: 03/27/13
+    :type: Serv Proj
+    :amount: '1.5'
+    :location: Holy Name of Mary
+    :notes: Easter Bags/St. Vincent de Paul
+  - :date: 04/12/13
+    :type: Camping
+    :amount: '1'
+    :location: Holy Name Festival
+    :notes: ''
+  - :date: 04/12/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Holy Name of Mary
+    :notes: Festival Cleanup
+  - :date: 04/26/13
+    :type: Camping
+    :amount: '2'
+    :location: Camporee - Bonelli Park
+    :notes: ''
+  - :date: 05/18/13
+    :type: Hiking
+    :amount: '6.4'
+    :location: Ice House Saddle
+    :notes: ''
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/04/13
+    :type: Hiking
+    :amount: '3'
+    :location: Mt Diablo SP, Walnut Creek
+    :notes: Hiking @ SUMMER CAMP
+- :last_name: Palmer
+  :first_name: Mikey
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Law
+  :first_name: Michael
+  :events:
+  - :date: 04/25/14
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: Bonelli - County Park
+  - :date: 07/19/14
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee/ Mono
+    :notes: ''
+- :last_name: Militello
+  :first_name: Gianni
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Keller
+  :first_name: Luke
+  :events: []
+- :last_name: Perez
+  :first_name: Niko
+  :events:
+  - :date: 08/10/11
+    :type: Hiking
+    :amount: '5'
+    :location: Camp Chawanakee
+    :notes: ''
+  - :date: 09/17/11
+    :type: Camping
+    :amount: '1'
+    :location: Dripping Springs Campground
+    :notes: near Temecula
+  - :date: 09/17/11
+    :type: Hiking
+    :amount: '5'
+    :location: Dripping Springs
+    :notes: near Temecula
+  - :date: 11/05/11
+    :type: Camping
+    :amount: '1'
+    :location: Marshall Canyon Equestrian Ct
+    :notes: WEDGELOSREE
+  - :date: 12/10/11
+    :type: Eagle Pro
+    :amount: '7'
+    :location: Matthew Beal's Eagle Proj
+    :notes: Damien High School
+  - :date: 01/07/12
+    :type: Eagle Pro
+    :amount: '3'
+    :location: Kenny Saleh Eagle Project
+    :notes: Damien High School
+  - :date: 03/31/12
+    :type: Camping
+    :amount: '1'
+    :location: Firestone
+    :notes: Camping with cubs/ Pre-camporee
+  - :date: 08/04/12
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: Mirimichi
+  - :date: 10/17/12
+    :type: Camping
+    :amount: '1'
+    :location: HNM Pumpkin Patch
+    :notes: outing
+  - :date: 10/17/12
+    :type: fund
+    :amount: '15'
+    :location: HNM Pumpkin Patch
+    :notes: ''
+  - :date: 11/07/12
+    :type: Camping
+    :amount: '1'
+    :location: WEDGELOSREE
+    :notes: Marshall Equestrian Cen
+  - :date: 12/15/12
+    :type: Hiking
+    :amount: '5'
+    :location: Ice House Canyon
+    :notes: ''
+  - :date: 02/15/13
+    :type: Camping
+    :amount: '1'
+    :location: Firestone Reservation
+    :notes: Boy Scout/Cub Scout outing
+  - :date: 03/27/13
+    :type: Serv Proj
+    :amount: '1.5'
+    :location: Holy Name of Mary
+    :notes: Easter Bags/St. Vincent de Paul
+  - :date: 04/12/13
+    :type: Camping
+    :amount: '1'
+    :location: Holy Name Festival
+    :notes: ''
+  - :date: 04/12/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Holy Name of Mary
+    :notes: Festival Cleanup
+  - :date: 04/13/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Festival Cleanup
+    :notes: ''
+  - :date: 04/26/13
+    :type: Camping
+    :amount: '2'
+    :location: Camporee - Bonelli Park
+    :notes: ''
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/04/13
+    :type: Camping
+    :amount: '7'
+    :location: Coloma; Walnut Creek; Morro B
+    :notes: Whitewater rafting, camping, hikin
+  - :date: 08/04/13
+    :type: Hiking
+    :amount: '3'
+    :location: Mt Diablo SP, Walnut Creek
+    :notes: Hiking @ SUMMER CAMP
+  - :date: 08/18/13
+    :type: Serv Proj
+    :amount: '2.5'
+    :location: Heritage Park La Verne
+    :notes: Flag Ceremony
+- :last_name: Giuliano
+  :first_name: Chirstopher
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+- :last_name: Borchman
+  :first_name: Dominic
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Johnston
+  :first_name: AJ
+  :events:
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/04/13
+    :type: Camping
+    :amount: '2'
+    :location: Coloma, CA
+    :notes: Whitewater rafting
+  - :date: 08/18/13
+    :type: Serv Proj
+    :amount: '2.5'
+    :location: Heritage Park La Verne
+    :notes: Flag Ceremony
+- :last_name: Neumann
+  :first_name: Mathew
+  :events: []
+- :last_name: Hoynes
+  :first_name: William
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Johnston
+  :first_name: Mathew
+  :events:
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/04/13
+    :type: Camping
+    :amount: '2'
+    :location: Coloma, CA
+    :notes: Whitewater rafting
+  - :date: 08/18/13
+    :type: Serv Proj
+    :amount: '2.5'
+    :location: Heritage Park La Verne
+    :notes: Flag Ceremony
+- :last_name: Ortiz
+  :first_name: Joey
+  :events:
+  - :date: 08/06/11
+    :type: Camping
+    :amount: '7'
+    :location: Chawanakee
+    :notes: Mirimichi
+  - :date: 08/10/11
+    :type: Hiking
+    :amount: '5'
+    :location: Camp Chawanakee
+    :notes: ''
+  - :date: 09/17/11
+    :type: Camping
+    :amount: '1'
+    :location: Dripping Springs Campground
+    :notes: near Temecula
+  - :date: 09/17/11
+    :type: Hiking
+    :amount: '5'
+    :location: Dripping Springs
+    :notes: near Temecula
+  - :date: 11/05/11
+    :type: Camping
+    :amount: '1'
+    :location: Marshall Canyon Equestrian Ct
+    :notes: WEDGELOSREE
+  - :date: 12/11/11
+    :type: Serv Proj
+    :amount: '3'
+    :location: Service Project
+    :notes: Damien High School
+  - :date: 03/03/12
+    :type: Eagle Pro
+    :amount: '7'
+    :location: Alex Brod's Eagle Project
+    :notes: St. Peter Antioch Church
+  - :date: 03/31/12
+    :type: Camping
+    :amount: '1'
+    :location: Firestone
+    :notes: Camping with cubs/ Pre-camporee
+  - :date: 04/21/12
+    :type: Serv Proj
+    :amount: '3'
+    :location: HNM Festival Clean up
+    :notes: ''
+  - :date: 04/27/12
+    :type: Camping
+    :amount: '1'
+    :location: Camp-o-ree
+    :notes: Marshal Canyon Equestrian
+  - :date: 08/04/12
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: Mirimichi
+  - :date: 10/17/12
+    :type: Camping
+    :amount: '1'
+    :location: HNM Pumpkin Patch
+    :notes: outing
+  - :date: 10/17/12
+    :type: fund
+    :amount: '15'
+    :location: HNM Pumpkin Patch
+    :notes: ''
+  - :date: 11/07/12
+    :type: Camping
+    :amount: '1'
+    :location: WEDGELOSREE
+    :notes: Marshall Equestrian Cen
+  - :date: 12/15/12
+    :type: Hiking
+    :amount: '5'
+    :location: Ice House Canyon
+    :notes: ''
+- :last_name: Wilson
+  :first_name: Owen
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Lares
+  :first_name: Frankie
+  :events:
+  - :date: 03/31/12
+    :type: Camping
+    :amount: '1'
+    :location: Firestone
+    :notes: Camping with cubs/ Pre-camporee
+  - :date: 04/20/12
+    :type: Serv Proj
+    :amount: '3'
+    :location: HNM Festival Clean up
+    :notes: ''
+  - :date: 04/21/12
+    :type: Serv Proj
+    :amount: '3'
+    :location: HNM Festival Clean up
+    :notes: ''
+  - :date: 04/27/12
+    :type: Camping
+    :amount: '1'
+    :location: Camp-o-ree
+    :notes: Marshal Canyon Equestrian
+  - :date: 08/04/12
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: Mirimichi
+  - :date: 10/17/12
+    :type: Camping
+    :amount: '1'
+    :location: HNM Pumpkin Patch
+    :notes: outing
+  - :date: 10/17/12
+    :type: fund
+    :amount: '15'
+    :location: HNM Pumpkin Patch
+    :notes: ''
+  - :date: 11/07/12
+    :type: Camping
+    :amount: '1'
+    :location: WEDGELOSREE
+    :notes: Marshall Equestrian Cen
+  - :date: 12/15/12
+    :type: Hiking
+    :amount: '5'
+    :location: Ice House Canyon
+    :notes: ''
+- :last_name: Moore
+  :first_name: Connor
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Mesdjian
+  :first_name: Scott
+  :events:
+  - :date: 04/25/14
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: Bonelli - County Park
+  - :date: 07/19/14
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee/ Mono
+    :notes: ''
+  - :date: 07/22/14
+    :type: Hiking
+    :amount: '1'
+    :location: Chawanakee nature hike
+    :notes: ''
+  - :date: 07/23/14
+    :type: Hiking
+    :amount: '5'
+    :location: Chawanakee
+    :notes: ''
+  - :date: 11/07/14
+    :type: Camping
+    :amount: '2'
+    :location: Webelosree - Marshall Canyon
+    :notes: Palmer Equestrian Center
+- :last_name: Rodriguez
+  :first_name: Russell
+  :events:
+  - :date: 02/01/14
+    :type: 1 DAY~
+    :amount: ''
+    :location: Broomball Ontario Skate Rink
+    :notes: ''
+  - :date: 02/02/14
+    :type: 1 DAY~
+    :amount: ''
+    :location: Scout Sunday at HNM
+    :notes: ''
+  - :date: 02/22/14
+    :type: Camping
+    :amount: '1'
+    :location: Firestone Scout Reservation
+    :notes: Orienteering outing
+  - :date: 03/15/14
+    :type: Camping
+    :amount: '1'
+    :location: Firestone Scout Reservation
+    :notes: ''
+  - :date: 04/02/14
+    :type: Serv Proj
+    :amount: '1'
+    :location: HNM make first aid kits
+    :notes: Heroes in the Shadows
+  - :date: 04/25/14
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: Bonelli - County Park
+  - :date: 07/19/14
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee/ Mono
+    :notes: ''
+  - :date: 07/22/14
+    :type: Hiking
+    :amount: '1'
+    :location: Chawanakee nature hike
+    :notes: ''
+  - :date: 07/23/14
+    :type: Hiking
+    :amount: '5'
+    :location: Chawanakee
+    :notes: ''
+  - :date: 11/07/14
+    :type: Camping
+    :amount: '2'
+    :location: Webelosree - Marshall Canyon
+    :notes: Palmer Equestrian Center
+  - :date: 01/25/15
+    :type: Hiking
+    :amount: '7.2'
+    :location: Mt Baldy Ice House Canyon
+    :notes: Icehouse Canyon to Icehouse Canyon
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+- :last_name: Brod
+  :first_name: Stephen
+  :events:
+  - :date: 10/17/12
+    :type: Camping
+    :amount: '1'
+    :location: HNM Pumpkin Patch
+    :notes: outing
+  - :date: 10/17/12
+    :type: fund~
+    :amount: '15'
+    :location: HNM Pumpkin Patch
+    :notes: ''
+  - :date: 11/07/12
+    :type: Camping
+    :amount: '1'
+    :location: WEDGELOSREE
+    :notes: Marshall Equestrian Cen
+- :last_name: Martinez
+  :first_name: Eric
+  :events:
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+  - :date: 04/25/15
+    :type: Serv Proj
+    :amount: '1'
+    :location: Holy Name of Mary
+    :notes: 2015 Festival Clean Up
+- :last_name: Turrubiates
+  :first_name: Adam
+  :events:
+  - :date: 02/01/14
+    :type: 1 DAY~
+    :amount: ''
+    :location: Broomball Ontario Skate Rink
+    :notes: ''
+  - :date: 02/02/14
+    :type: 1 DAY~
+    :amount: ''
+    :location: Scout Sunday at HNM
+    :notes: ''
+  - :date: 04/25/14
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: Bonelli - County Park
+  - :date: 07/19/14
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee/ Mono
+    :notes: ''
+  - :date: 07/22/14
+    :type: Hiking
+    :amount: '1'
+    :location: Chawanakee nature hike
+    :notes: ''
+  - :date: 07/23/14
+    :type: Hiking
+    :amount: '5'
+    :location: Chawanakee
+    :notes: ''
+  - :date: 11/07/14
+    :type: Camping
+    :amount: '2'
+    :location: Webelosree - Marshall Canyon
+    :notes: Palmer Equestrian Center
+- :last_name: Cote
+  :first_name: Andrew
+  :events:
+  - :date: 04/12/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Holy Name of Mary
+    :notes: Festival Cleanup
+  - :date: 04/13/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Festival Cleanup
+    :notes: ''
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/07/13
+    :type: Serv Proj
+    :amount: '2'
+    :location: Concert In park - Hertage La
+    :notes: Flag Ceremony -
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/03/13
+    :type: Serv Proj
+    :amount: '4'
+    :location: SAN DIMAS BBQ
+    :notes: ''
+- :last_name: Ortiz
+  :first_name: Nicolas
+  :events: []
+- :last_name: Bugelli
+  :first_name: Jackson
+  :events:
+  - :date: 08/06/11
+    :type: Camping
+    :amount: '7'
+    :location: Chawanakee
+    :notes: Mirimichi
+  - :date: 08/10/11
+    :type: Hiking
+    :amount: '5'
+    :location: Camp Chawanakee
+    :notes: ''
+  - :date: 09/17/11
+    :type: Camping
+    :amount: '1'
+    :location: Dripping Springs Campground
+    :notes: near Temecula
+  - :date: 09/17/11
+    :type: Hiking
+    :amount: '5'
+    :location: Dripping Springs
+    :notes: near Temecula
+  - :date: 11/05/11
+    :type: Camping
+    :amount: '1'
+    :location: Marshall Canyon Equestrian Ct
+    :notes: WEDGELOSREE
+  - :date: 01/07/12
+    :type: Eagle Pro
+    :amount: '3'
+    :location: Kenny Saleh Eagle Project
+    :notes: Damien High School
+  - :date: 03/31/12
+    :type: Camping
+    :amount: '1'
+    :location: Firestone
+    :notes: Camping with cubs/ Pre-camporee
+  - :date: 04/21/12
+    :type: Serv Proj
+    :amount: '3'
+    :location: HNM Festival Clean up
+    :notes: ''
+  - :date: 04/27/12
+    :type: Camping
+    :amount: '1'
+    :location: Camp-o-ree
+    :notes: Marshal Canyon Equestrian
+  - :date: 08/04/12
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: Mirimichi
+  - :date: 10/17/12
+    :type: Camping
+    :amount: '1'
+    :location: HNM Pumpkin Patch
+    :notes: outing
+  - :date: 10/17/12
+    :type: fund
+    :amount: '15'
+    :location: HNM Pumpkin Patch
+    :notes: ''
+  - :date: 11/07/12
+    :type: Camping
+    :amount: '1'
+    :location: WEDGELOSREE
+    :notes: Marshall Equestrian Cen
+  - :date: 03/27/13
+    :type: Serv Proj
+    :amount: '1.5'
+    :location: Holy Name of Mary
+    :notes: Easter Bags/St. Vincent de Paul
+  - :date: 04/12/13
+    :type: Camping
+    :amount: '1'
+    :location: Holy Name Festival
+    :notes: ''
+  - :date: 04/12/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Holy Name of Mary
+    :notes: Festival Cleanup
+  - :date: 04/13/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Festival Cleanup
+    :notes: ''
+  - :date: 04/26/13
+    :type: Camping
+    :amount: '2'
+    :location: Camporee - Bonelli Park
+    :notes: ''
+  - :date: 07/07/13
+    :type: Serv Proj
+    :amount: '2'
+    :location: Concert In park - Hertage La
+    :notes: Flag Ceremony -
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/03/13
+    :type: Serv Proj
+    :amount: '4'
+    :location: SAN DIMAS BBQ
+    :notes: ''
+  - :date: 08/04/13
+    :type: Camping
+    :amount: '7'
+    :location: Coloma; Walnut Creek; Morro B
+    :notes: Whitewater rafting, camping, hikin
+  - :date: 08/04/13
+    :type: Hiking
+    :amount: '3'
+    :location: Mt Diablo SP, Walnut Creek
+    :notes: Hiking @ SUMMER CAMP
+  - :date: 10/05/13
+    :type: Serv Proj
+    :amount: '5.5'
+    :location: Western Days - SDUMC
+    :notes: ''
+  - :date: 11/09/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: HNM - Veterans Day service
+    :notes: Flag Retirement
+  - :date: 04/02/14
+    :type: Serv Proj
+    :amount: '1'
+    :location: HNM make first aid kits
+    :notes: Heroes in the Shadows
+  - :date: 04/25/14
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: Bonelli - County Park
+  - :date: 07/19/14
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee/ Mono
+    :notes: ''
+  - :date: 11/07/14
+    :type: Camping
+    :amount: '2'
+    :location: Webelosree - Marshall Canyon
+    :notes: Palmer Equestrian Center
+  - :date: 01/19/15
+    :type: Training
+    :amount: '3.5'
+    :location: TLC at Beal Residence
+    :notes: General Leadership Responsability
+  - :date: 01/25/15
+    :type: Hiking
+    :amount: '7.2'
+    :location: Mt Baldy Ice House Canyon
+    :notes: Icehouse Canyon to Icehouse Canyon
+- :last_name: Alcarez
+  :first_name: Garrett
+  :events:
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/04/13
+    :type: Camping
+    :amount: '2'
+    :location: Coloma, CA
+    :notes: Whitewater rafting
+  - :date: 08/18/13
+    :type: Serv Proj
+    :amount: '2.5'
+    :location: Heritage Park La Verne
+    :notes: Flag Ceremony
+- :last_name: Ortiz
+  :first_name: Dominic
+  :events:
+  - :date: 04/12/13
+    :type: Camping
+    :amount: '1'
+    :location: Holy Name Festival
+    :notes: ''
+  - :date: 04/12/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Holy Name of Mary
+    :notes: Festival Cleanup
+  - :date: 04/13/13
+    :type: Serv Proj
+    :amount: '3'
+    :location: Festival Cleanup
+    :notes: ''
+  - :date: 04/26/13
+    :type: Camping
+    :amount: '2'
+    :location: Camporee - Bonelli Park
+    :notes: ''
+  - :date: 05/18/13
+    :type: Hiking
+    :amount: '6.4'
+    :location: Ice House Saddle
+    :notes: ''
+  - :date: 07/07/13
+    :type: Serv Proj
+    :amount: '2'
+    :location: Concert In park - Hertage La
+    :notes: Flag Ceremony -
+  - :date: 08/04/13
+    :type: Camping
+    :amount: '7'
+    :location: Coloma; Walnut Creek; Morro B
+    :notes: Whitewater rafting, camping, hikin
+  - :date: 08/04/13
+    :type: Hiking
+    :amount: '3'
+    :location: Mt Diablo SP, Walnut Creek
+    :notes: Hiking @ SUMMER CAMP
+  - :date: 08/18/13
+    :type: Serv Proj
+    :amount: '2.5'
+    :location: Heritage Park La Verne
+    :notes: Flag Ceremony
+- :last_name: Gallegos
+  :first_name: Eric
+  :events:
+  - :date: 06/08/13
+    :type: Camping
+    :amount: '1'
+    :location: Rocket Launch
+    :notes: Lucerne Lake Bed
+  - :date: 07/07/13
+    :type: Serv Proj
+    :amount: '2'
+    :location: Concert In park - Hertage La
+    :notes: Flag Ceremony -
+  - :date: 07/28/13
+    :type: Serv Proj
+    :amount: '3.7'
+    :location: SAN DIMAS CAR SHOW
+    :notes: FIRST METHODIST CHURCH-PANCAKE BRK
+  - :date: 08/03/13
+    :type: Serv Proj
+    :amount: '4'
+    :location: SAN DIMAS BBQ
+    :notes: ''
+  - :date: 08/18/13
+    :type: Serv Proj
+    :amount: '2.5'
+    :location: Heritage Park La Verne
+    :notes: Flag Ceremony
+- :last_name: Rodriguez
+  :first_name: Ryan
+  :events:
+  - :date: 02/01/14
+    :type: 1 DAY~
+    :amount: ''
+    :location: Broomball Ontario Skate Rink
+    :notes: ''
+  - :date: 02/02/14
+    :type: 1 DAY~
+    :amount: ''
+    :location: Scout Sunday at HNM
+    :notes: ''
+  - :date: 02/22/14
+    :type: Camping
+    :amount: '1'
+    :location: Firestone Scout Reservation
+    :notes: Orienteering outing
+  - :date: 03/15/14
+    :type: Camping
+    :amount: '1'
+    :location: Firestone Scout Reservation
+    :notes: ''
+  - :date: 04/02/14
+    :type: Serv Proj
+    :amount: '1'
+    :location: HNM make first aid kits
+    :notes: Heroes in the Shadows
+  - :date: 04/25/14
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: Bonelli - County Park
+  - :date: 07/19/14
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee/ Mono
+    :notes: ''
+  - :date: 07/22/14
+    :type: Hiking
+    :amount: '1'
+    :location: Chawanakee nature hike
+    :notes: ''
+  - :date: 07/23/14
+    :type: Hiking
+    :amount: '5'
+    :location: Chawanakee
+    :notes: ''
+  - :date: 11/07/14
+    :type: Camping
+    :amount: '2'
+    :location: Webelosree - Marshall Canyon
+    :notes: Palmer Equestrian Center
+  - :date: 01/25/15
+    :type: Hiking
+    :amount: '7.2'
+    :location: Mt Baldy Ice House Canyon
+    :notes: Icehouse Canyon to Icehouse Canyon
+  - :date: 03/28/15
+    :type: Camping
+    :amount: '1'
+    :location: Firestone SRV - Joint Act
+    :notes: ''
+- :last_name: Pitre
+  :first_name: Ian
+  :events:
+  - :date: 05/04/08
+    :type: Eagle Pro
+    :amount: '7'
+    :location: Glen Camp Angeles Nat. Forest
+    :notes: Steven's Eagle Proj
+  - :date: 05/18/08
+    :type: Eagle Pro
+    :amount: '7'
+    :location: Angeles Forest Ed Center
+    :notes: Jasons's Eagle project
+  - :date: 05/23/08
+    :type: Camping
+    :amount: '3'
+    :location: Family Camp - Camp Whitsett
+    :notes: ''
+  - :date: 10/25/08
+    :type: Serv Proj
+    :amount: '4'
+    :location: HNM Festival
+    :notes: ''
+  - :date: 11/28/08
+    :type: Camping
+    :amount: '2'
+    :location: Desert Caravan
+    :notes: ''
+  - :date: 04/24/09
+    :type: Camping
+    :amount: '2'
+    :location: VDS Camporee
+    :notes: ''
+  - :date: 05/03/09
+    :type: Eagle Pro
+    :amount: '7'
+    :location: Cody's proj ANF San Gabriel
+    :notes: Educational Center
+  - :date: 08/01/09
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: ''
+  - :date: 08/02/09
+    :type: Serv Proj
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: tribe hours
+  - :date: 05/16/10
+    :type: Serv Proj
+    :amount: '5'
+    :location: Johstone PC
+    :notes: Cub skills day
+  - :date: 07/29/10
+    :type: Camping
+    :amount: '11'
+    :location: Yellowstone/Camp Loll
+    :notes: ''
+  - :date: 08/01/10
+    :type: Hiking
+    :amount: '4'
+    :location: Mystic Falls, Yellowstone
+    :notes: ''
+  - :date: 08/05/10
+    :type: Hiking
+    :amount: '1.2'
+    :location: Gardener/Boiling River
+    :notes: Yellowstone
+  - :date: 08/06/11
+    :type: Camping
+    :amount: '7'
+    :location: Chawanakee
+    :notes: Mirimichi
+  - :date: 01/07/12
+    :type: Eagle Pro
+    :amount: '3'
+    :location: Kenny Saleh Eagle Project
+    :notes: Damien High School
+  - :date: 04/21/12
+    :type: Serv Proj
+    :amount: '3'
+    :location: HNM Festival Clean up
+    :notes: ''
+  - :date: 04/27/12
+    :type: Camping
+    :amount: '1'
+    :location: Camp-o-ree
+    :notes: Marshal Canyon Equestrian
+  - :date: 08/04/12
+    :type: Camping
+    :amount: '7'
+    :location: Camp Chawanakee
+    :notes: Mirimichi
+  - :date: 10/17/12
+    :type: Camping
+    :amount: '1'
+    :location: HNM Pumpkin Patch
+    :notes: outing
+  - :date: 10/17/12
+    :type: fund
+    :amount: '15'
+    :location: HNM Pumpkin Patch
+    :notes: ''
