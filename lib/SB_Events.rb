@@ -39,7 +39,7 @@ class SB_Events
     end
   end
 end
-
+module Events
   class Event_base
       attr_accessor :date, :location, :notes
       attr_reader :days, :nights, :frost_points, :miles, :hours
@@ -93,3 +93,4 @@ end
       @hours = row[:amount].to_f
     end
   end
+end

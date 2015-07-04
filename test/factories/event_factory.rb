@@ -1,5 +1,4 @@
-FactoryGirl.define do
-  factory :event do
+Factory.define :event do |f|
 
     class Event
       attr_accessor :type, :date, :amount, :location, :notes
@@ -7,21 +6,21 @@ FactoryGirl.define do
 
   #  skip_create
 
-    date {(Date.today - Faker::Number.number(3).to_i).strftime("%m/%d/%y")}
-    amount {Faker::Number.number(1)}
-    location {Faker::Company.bs}
-    notes  {Faker::Lorem.sentence}
-
-    trait :camping do
-      type 'camping'
-    end
-
-    trait :hiking do
-      type 'hiking'
-    end
-
-    trait :service do
-      type 'service'
-    end
-  end
+    f.date {(Date.today - Faker::Number.number(3).to_i).strftime("%m/%d/%y")}
+    f.amount {Faker::Number.number(1)}
+    f.location {Faker::Company.bs}
+    f.notes  {Faker::Lorem.sentence}
 end
+Factory.define :camping, :parent => event  do |f|
+      f.type 'camping'
+end
+
+Factory.define :hiking, :parent => :event do |f|
+      f.type 'hiking'
+end
+
+Factory.define :service, :parent => :event  do |f|
+      f.type 'service'
+end
+
+
