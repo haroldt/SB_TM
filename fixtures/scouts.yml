@@ -90,7 +90,7 @@
   :first_name: Emiliano
   :events: []
 - :last_name: Pablo
-  :first_name: Ms.
+  :first_name: Anthony
   :events:
   - :date: 08/10/11
     :type: Hiking
@@ -565,7 +565,7 @@
     :location: Holy Name of Mary
     :notes: 2015 Festival Clean Up
 - :last_name: Abraham
-  :first_name: Ms.
+  :first_name: John
   :events:
   - :date: 02/01/14
     :type: 1 DAY~
