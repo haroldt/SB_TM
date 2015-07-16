@@ -3,10 +3,8 @@ class Convert
   include SB_Events
 
   def scout(entity)
-    scout = []
-    scout << [entity[:first_name],entity[:last_name]]
-    event =[]
-    entity[:events].map{|x| [scout,retype(x).values].flatten}
+    scout = entity.to_a[0..1].to_h
+    entity[:events].map{|x| scout.merge(create_event(x).to_h)}
   end
 
   def retype(event)

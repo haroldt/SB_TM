@@ -10,6 +10,7 @@ class Test_convert_exits < Minitest::Test
   @@scouts   = YAML.load_file('fixtures/scouts.yml')
 
   def setup
+    @convert = Convert.new
     @first_activity = @@activity[0]
     @first_scout = @@scouts[0]
     @empty_scout = @@scouts.select{|x| x[:events].empty?}.first
@@ -19,42 +20,39 @@ class Test_convert_exits < Minitest::Test
 
 
   def test_convert_created
-    convert = Convert.new
-    assert_instance_of Convert, convert
-
+        assert_instance_of Convert, @convert
   end
 
   def test_empty_scout
-    convert = Convert.new
-    assert_empty convert.scout(@empty_scout)
+        assert_empty @convert.scout(@empty_scout)
+  end
+  
+  def  test_scout_return_a_hash
+    assert_kind_of Hash, @convert.scout(@scout_one_event)[0]
   end
 
   def test_one_event
-    convert = Convert.new
-    assert_equal 1, convert.scout(@scout_one_event).size
+        assert_equal 1, @convert.scout(@scout_one_event).size
   end
 
   def test_returns_blank_event_type_for_for_unkown_type
     event={date: "07/13/12", type: "fund", amount: "1", location:"school", notes: "fundraiser" }
-    convert =Convert.new
-    assert_equal "", convert.retype(event)[:type]
+        assert_equal "", @convert.retype(event)[:type]
   end
 
   def test_must_converts_eagle_to_service
     event = {date: "07/13/12", type: "Eagle Pro", amount: "1", location:"school", notes: "Eagle Pro" }
-    convert = Convert.new
-    assert_equal "Service", convert.retype(event)[:type]
+        assert_equal "Service", @convert.retype(event)[:type]
   end
 
   def test_must_return_two_events
-    convert = Convert.new
-    assert_equal 2, convert.scout(@scout_two_event).size
+    scouts = @convert.scout(@scout_two_event)
+    assert_equal 2, scouts.size, scouts
   end
 
   def test_creates_camping
     event = {:date=>"03/28/15", :type=>"Camping", :amount=>"1", :location=>"Firestone SRV - Joint Act", :notes=>""}
-    convert = Convert.new
-    new_event = convert.create_event(event)
+        new_event = @convert.create_event(event)
     assert_instance_of Camping, new_event ,"class #{new_event.class}"
   end
 

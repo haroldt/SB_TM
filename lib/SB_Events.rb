@@ -18,6 +18,9 @@ module SB_Events
         @values ||= self.values
         [@keys, @values].transpose.unshift(["Type","#{self.class.to_s.split("::")[1]}"])
       end
+      def to_h
+        self.to_a.to_h
+      end
 
       def keys
         @keys = self.instance_variables.map{|x| x.to_s.delete("@")}

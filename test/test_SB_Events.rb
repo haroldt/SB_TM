@@ -34,4 +34,7 @@ describe SB_Events do
     @hike_event.nights.must_be_empty
   end
 
+  it 'returns a hash when .to_h is called' do
+    @hike_event.to_h.must_be_kind_of Hash
+  end
 end
