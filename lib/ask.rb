@@ -1,9 +1,9 @@
 #require 'TM_Log.rb'
 #require 'SB_Events.rb'
-include Events
+include SB_Events
 class Ask
   def initialize
-    
+
   end
 end
 
@@ -44,6 +44,6 @@ def create_events(events)
      events.map{|event| Object.const_get(@logtypes[@likes[@types.index(event[:type])]]).new(event)}
 end
 def convert_tm_scout(scout)
-  
-  
+
+
 end
